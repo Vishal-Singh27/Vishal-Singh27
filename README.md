@@ -19,6 +19,8 @@ I build machine learning systems and web products, from medical imaging pipeline
 ## 🚀 Featured projects
 
 ### [CodeCanvas: AI-Powered Collaborative Workspace](https://code-canvas-nu.vercel.app/)
+[Source code](https://github.com/Vishal-Singh27/CodeCanvas) | [Live site](https://code-canvas-nu.vercel.app/)
+
 A real time coding workspace where teammates see branch switches, files and chat instantly. A GitHub OAuth pipeline pulls repositories, commits and diffs, and a chunking algorithm feeds them to the Groq LLM API for AI code reviews at lower token cost.
 `React` `Node.js` `Express` `MongoDB` `Socket.io` `Tailwind CSS` `Groq API` `Vercel` `Render`
 
@@ -26,7 +28,7 @@ A real time coding workspace where teammates see branch switches, files and chat
 Audited 7,000+ MRI scans with perceptual hashing and removed a 27% cross split data leakage that had inflated public benchmarks. Built a stratified 5 fold EfficientNet-B0 and XGBoost ensemble using out of fold predictions, reaching 96% accuracy, with Grad-CAM explainability and 75% faster GPU training using `torch.compile` and mixed precision.
 `PyTorch` `XGBoost` `Scikit-learn` `Grad-CAM`
 
-### Smart Mail: Machine Learning Email Portal
+### [Smart Mail: Machine Learning Email Portal](https://github.com/Vishal-Singh27/Smart-Mail)
 A Django email portal that filters spam in real time using a custom TensorFlow neural network trained on the UCI SMS Spam Collection, with bcrypt password hashing and secure sessions.
 `Python` `Django` `TensorFlow` `Keras` `SQLite`
 
@@ -34,9 +36,14 @@ A Django email portal that filters spam in real time using a custom TensorFlow n
 A dual hand gesture controlled mouse with right hand navigation and clicks, left hand macros, and a CustomTkinter control panel.
 `Python` `OpenCV` `MediaPipe` `CustomTkinter`
 
-### AI Based Unauthorized Screen Recording Detection System
+### [AI Based Unauthorized Screen Recording Detection System](https://github.com/Vishal-Singh27/AI-Based-Unauthorized-Screen-Recording-Detection-System)
 A zero trust endpoint security honeypot that arms itself when webcam presence detection sees the user leave, and records forensic evidence encrypted in memory with AES-256-GCM.
 `Python` `OpenCV` `MediaPipe`
+
+### More repositories
+
+- [ML-Studio](https://github.com/Vishal-Singh27/ML-Studio) (TypeScript)
+- [Tic-Tac-Toe-tkinter](https://github.com/Vishal-Singh27/Tic-Tac-Toe-tkinter): a Tic-Tac-Toe game with a minimax AI and a Tkinter GUI
 
 ## 📄 Research
 
